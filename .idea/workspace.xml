@@ -93,7 +93,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../loopiartapp-feature-phpinfo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -119,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679096627097</updated>
-      <workItem from="1679096628628" duration="1051000" />
+      <workItem from="1679096628628" duration="1186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1051000" />
+    <option name="totallyTimeSpent" value="1186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="106" width="1346" height="544" extended-state="0" />
